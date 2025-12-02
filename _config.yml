@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Suhartanto - Server Personal
-description: Welcome to my server and apps.
+# Kode sebelumnya:
+theme: orderedlist 
+
+# Ganti menjadi kode ini (untuk menggunakan tema Agency):
+remote_theme: "bencentra/jekyll-theme-agency"
