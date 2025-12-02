@@ -17,40 +17,40 @@ title: SMAN 2 Bengkalis
 
 <div class="repo-list">
 
-    <div style="background-image: linear-gradient(135deg, #007bff 0%, #0056b3 100%); color: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <h3><i class="fas fa-school"></i> Profil Sekolah</h3>
+    <div style="border: 2px solid #007bff; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-school" style="color: #007bff;"></i> Profil Sekolah</h3>
         <p>Visi, Misi, Sejarah, dan Struktur Organisasi sekolah.</p>
-        <a href="/profil-sekolah.html" style="text-decoration: none; background-color: white; color: #007bff; padding: 8px 12px; border-radius: 4px; display: inline-block;">Lihat Profil</a>
+        <a href="/profil-sekolah.html" style="text-decoration: none; background-color: #007bff; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Profil</a>
     </div>
 
-    <div style="background-image: linear-gradient(135deg, #28a745 0%, #1e7e34 100%); color: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <h3><i class="fas fa-chalkboard-teacher"></i> Info Guru & Staf</h3>
+    <div style="border: 2px solid #28a745; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-chalkboard-teacher" style="color: #28a745;"></i> Info Guru & Staf</h3>
         <p>Daftar lengkap Guru dan Tenaga Kependidikan.</p>
-        <a href="/guru-staf.html" style="text-decoration: none; background-color: white; color: #28a745; padding: 8px 12px; border-radius: 4px; display: inline-block;">Lihat Daftar</a>
+        <a href="/guru-staf.html" style="text-decoration: none; background-color: #28a745; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Daftar</a>
     </div>
 
-    <div style="background-image: linear-gradient(135deg, #ffc107 0%, #d39e00 100%); color: black; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <h3><i class="fas fa-calendar-alt"></i> Kegiatan Sekolah</h3>
+    <div style="border: 2px solid #ffc107; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-calendar-alt" style="color: #ffc107;"></i> Kegiatan Sekolah</h3>
         <p>Berita terbaru, agenda harian, dan kegiatan sekolah.</p>
-        <a href="/kegiatan.html" style="text-decoration: none; background-color: black; color: white; padding: 8px 12px; border-radius: 4px; display: inline-block;">Akses Agenda</a>
+        <a href="/kegiatan.html" style="text-decoration: none; background-color: #ffc107; color: black; padding: 8px 12px; border-radius: 4px;">Akses Agenda</a>
     </div>
 
-    <div style="background-image: linear-gradient(135deg, #dc3545 0%, #a71d2a 100%); color: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <h3><i class="fas fa-trophy"></i> Prestasi</h3>
+    <div style="border: 2px solid #dc3545; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-trophy" style="color: #dc3545;"></i> Prestasi</h3>
         <p>Pencapaian Siswa dan Sekolah di tingkat Daerah hingga Nasional.</p>
-        <a href="/prestasi.html" style="text-decoration: none; background-color: white; color: #dc3545; padding: 8px 12px; border-radius: 4px; display: inline-block;">Lihat Prestasi</a>
+        <a href="/prestasi.html" style="text-decoration: none; background-color: #dc3545; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Prestasi</a>
     </div>
 
-    <div style="background-image: linear-gradient(135deg, #6f42c1 0%, #522f98 100%); color: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <h3><i class="fas fa-newspaper"></i> Blog & Pengumuman</h3>
+    <div style="border: 2px solid #6f42c1; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-newspaper" style="color: #6f42c1;"></i> Blog & Pengumuman</h3>
         <p>Artikel edukasi, dan pengumuman penting dari sekolah.</p>
-        <a href="/blog.html" style="text-decoration: none; background-color: white; color: #6f42c1; padding: 8px 12px; border-radius: 4px; display: inline-block;">Akses Blog</a>
+        <a href="/blog.html" style="text-decoration: none; background-color: #6f42c1; color: white; padding: 8px 12px; border-radius: 4px;">Akses Blog</a>
     </div>
 
-    <div style="background-image: linear-gradient(135deg, #fd7e14 0%, #c45a00 100%); color: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <h3><i class="fas fa-camera-retro"></i> Galeri Sekolah</h3>
+    <div style="border: 2px solid #fd7e14; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
+        <h3><i class="fas fa-camera-retro" style="color: #fd7e14;"></i> Galeri Sekolah</h3>
         <p>Album foto dan video kegiatan sekolah terbaru.</p>
-        <a href="/galeri.html" style="text-decoration: none; background-color: white; color: #fd7e14; padding: 8px 12px; border-radius: 4px; display: inline-block;">Lihat Galeri</a>
+        <a href="/galeri.html" style="text-decoration: none; background-color: #fd7e14; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Galeri</a>
     </div>
 
 </div>
@@ -60,25 +60,25 @@ title: SMAN 2 Bengkalis
 <h2 align="center" style="margin-top: 40px; margin-bottom: 30px;">💻 Portal Aplikasi & Layanan Profesional</h2>
 
 <div class="repo-list">
-    <div style="border: 2px solid #007bff; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);">
+    <div style="border: 2px solid #007bff; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
         <h3><i class="fas fa-user-plus" style="color: #007bff;"></i> PPDB Online</h3>
         <p>Penerimaan Peserta Didik Baru [Tahun Ajaran].</p>
         <a href="https://link-ppdb-anda.sch.id" style="text-decoration: none; color: #007bff; border: 1px solid #007bff; padding: 8px 12px; border-radius: 4px;">Akses Portal</a>
     </div>
 
-    <div style="border: 2px solid #28a745; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);">
+    <div style="border: 2px solid #28a745; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
         <h3><i class="fas fa-graduation-cap" style="color: #28a745;"></i> SIAKAD</h3>
         <p>Portal Nilai, Absensi, dan Data Akademik Siswa/Wali Murid.</p>
         <a href="https://link-siakad-sekolah.sch.id" style="text-decoration: none; color: #28a745; border: 1px solid #28a745; padding: 8px 12px; border-radius: 4px;">Login SIAKAD</a>
     </div>
 
-    <div style="border: 2px solid #ffc107; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);">
+    <div style="border: 2px solid #ffc107; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
         <h3><i class="fas fa-book-open" style="color: #ffc107;"></i> Perpustakaan Digital</h3>
         <p>Akses koleksi e-book dan sumber daya digital sekolah.</p>
         <a href="https://link-perpus-digital-anda.com" style="text-decoration: none; color: #ffc107; border: 1px solid #ffc107; padding: 8px 12px; border-radius: 4px;">Kunjungi</a>
     </div>
 
-    <div style="border: 2px solid #dc3545; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);">
+    <div style="border: 2px solid #dc3545; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
         <h3><i class="fas fa-user-friends" style="color: #dc3545;"></i> Portal Alumni</h3>
         <p>Jaringan komunikasi dan informasi khusus lulusan.</p>
         <a href="https://link-forum-alumni-anda.com" style="text-decoration: none; color: #dc3545; border: 1px solid #dc3545; padding: 8px 12px; border-radius: 4px;">Akses Forum</a>
