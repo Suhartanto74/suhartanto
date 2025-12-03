@@ -1,93 +1,120 @@
 ---
 layout: default
-title: SMAN 2 Bengkalis
+title: SMAN 2 Bengkalis - Portal Resmi Sekolah
 ---
 
-<div align="center">
-    <img src="https://iili.io/KbpdFZN.png" alt="Logo SMAN 2 Bengkalis" style="max-width: 150px; margin-bottom: 20px;">
+<div align="center" style="padding: 40px 20px; background-color: #f8f9fa; border-bottom: 5px solid #007bff;">
+    <img src="https://iili.io/KbpdFZN.png" alt="Logo SMAN 2 Bengkalis" style="max-width: 180px; margin-bottom: 15px; border-radius: 50%; border: 3px solid #ffffff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
-    <h1>✨ Selamat Datang di SMAN 2 Bengkalis ✨</h1>
-    <p style="font-size: 1.2em; color: #555;">Mewujudkan Generasi Unggul dan Berakhlak Mulia</p>
-    <p>Kami berkomitmen menciptakan lingkungan belajar yang inspiratif dan modern.</p>
+    <h1 style="color: #343a40; font-size: 2.5em; margin-bottom: 5px;">
+        🏫 SMAN 2 Bengkalis
+    </h1>
+    <p style="font-size: 1.3em; color: #007bff; font-weight: 500; margin-top: 0;">
+        "Mewujudkan Generasi Unggul dan Berakhlak Mulia"
+    </p>
+    <p style="color: #6c757d; margin-top: 15px;">
+        Kami berkomitmen menciptakan lingkungan belajar yang inspiratif, modern, dan berorientasi masa depan.
+    </p>
 </div>
 
 ---
 
-<h2 align="center" style="margin-top: 40px; margin-bottom: 30px;">🧭 Portal Informasi Sekolah</h2>
+## 🧭 Portal Informasi Sekolah
 
-<div class="repo-list">
+<div class="card-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 30px;">
 
-    <div style="border: 2px solid #007bff; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-school" style="color: #007bff;"></i> Profil Sekolah</h3>
-        <p>Visi, Misi, Sejarah, dan Struktur Organisasi sekolah.</p>
-        <a href="/profil-sekolah.html" style="text-decoration: none; background-color: #007bff; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Profil</a>
-    </div>
+    <a href="/profil-sekolah.html" class="card-link" style="text-decoration: none;">
+        <div class="info-card" style="border: 1px solid #dee2e6; border-left: 5px solid #007bff; padding: 20px; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s; background-color: #ffffff; height: 100%;">
+            <h3 style="color: #007bff; margin-top: 0;"><i class="fas fa-building fa-fw"></i> Profil Sekolah</h3>
+            <p style="color: #495057;">Visi, Misi, Sejarah, dan Struktur Organisasi sekolah lengkap.</p>
+            <span style="color: #007bff; font-weight: bold;">Lihat Detail &rarr;</span>
+        </div>
+    </a>
 
-    <div style="border: 2px solid #28a745; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-chalkboard-teacher" style="color: #28a745;"></i> Info Guru & Staf</h3>
-        <p>Daftar lengkap Guru dan Tenaga Kependidikan.</p>
-        <a href="/guru-staf.html" style="text-decoration: none; background-color: #28a745; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Daftar</a>
-    </div>
+    <a href="/guru-staf.html" class="card-link" style="text-decoration: none;">
+        <div class="info-card" style="border: 1px solid #dee2e6; border-left: 5px solid #28a745; padding: 20px; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s; background-color: #ffffff; height: 100%;">
+            <h3 style="color: #28a745; margin-top: 0;"><i class="fas fa-users fa-fw"></i> Guru & Staf</h3>
+            <p style="color: #495057;">Daftar lengkap Guru dan Tenaga Kependidikan profesional.</p>
+            <span style="color: #28a745; font-weight: bold;">Lihat Daftar &rarr;</span>
+        </div>
+    </a>
 
-    <div style="border: 2px solid #ffc107; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-calendar-alt" style="color: #ffc107;"></i> Kegiatan Sekolah</h3>
-        <p>Berita terbaru, agenda harian, dan kegiatan sekolah.</p>
-        <a href="/kegiatan.html" style="text-decoration: none; background-color: #ffc107; color: black; padding: 8px 12px; border-radius: 4px;">Akses Agenda</a>
-    </div>
+    <a href="/kegiatan.html" class="card-link" style="text-decoration: none;">
+        <div class="info-card" style="border: 1px solid #dee2e6; border-left: 5px solid #ffc107; padding: 20px; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s; background-color: #ffffff; height: 100%;">
+            <h3 style="color: #ffc107; margin-top: 0;"><i class="fas fa-calendar-check fa-fw"></i> Kegiatan & Agenda</h3>
+            <p style="color: #495057;">Berita terbaru, agenda harian, dan kegiatan sekolah terkini.</p>
+            <span style="color: #ffc107; font-weight: bold;">Akses Agenda &rarr;</span>
+        </div>
+    </a>
 
-    <div style="border: 2px solid #dc3545; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-trophy" style="color: #dc3545;"></i> Prestasi</h3>
-        <p>Pencapaian Siswa dan Sekolah di tingkat Daerah hingga Nasional.</p>
-        <a href="/prestasi.html" style="text-decoration: none; background-color: #dc3545; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Prestasi</a>
-    </div>
+    <a href="/prestasi.html" class="card-link" style="text-decoration: none;">
+        <div class="info-card" style="border: 1px solid #dee2e6; border-left: 5px solid #dc3545; padding: 20px; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s; background-color: #ffffff; height: 100%;">
+            <h3 style="color: #dc3545; margin-top: 0;"><i class="fas fa-trophy fa-fw"></i> Prestasi Sekolah</h3>
+            <p style="color: #495057;">Pencapaian terbaik Siswa dan Sekolah di berbagai tingkat.</p>
+            <span style="color: #dc3545; font-weight: bold;">Lihat Prestasi &rarr;</span>
+        </div>
+    </a>
 
-    <div style="border: 2px solid #6f42c1; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-newspaper" style="color: #6f42c1;"></i> Blog & Pengumuman</h3>
-        <p>Artikel edukasi, dan pengumuman penting dari sekolah.</p>
-        <a href="/blog.html" style="text-decoration: none; background-color: #6f42c1; color: white; padding: 8px 12px; border-radius: 4px;">Akses Blog</a>
-    </div>
+    <a href="/blog.html" class="card-link" style="text-decoration: none;">
+        <div class="info-card" style="border: 1px solid #dee2e6; border-left: 5px solid #6f42c1; padding: 20px; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s; background-color: #ffffff; height: 100%;">
+            <h3 style="color: #6f42c1; margin-top: 0;"><i class="fas fa-bullhorn fa-fw"></i> Pengumuman Resmi</h3>
+            <p style="color: #495057;">Artikel edukasi dan pengumuman penting dari pihak sekolah.</p>
+            <span style="color: #6f42c1; font-weight: bold;">Akses Blog &rarr;</span>
+        </div>
+    </a>
 
-    <div style="border: 2px solid #fd7e14; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-camera-retro" style="color: #fd7e14;"></i> Galeri Sekolah</h3>
-        <p>Album foto dan video kegiatan sekolah terbaru.</p>
-        <a href="/galeri.html" style="text-decoration: none; background-color: #fd7e14; color: white; padding: 8px 12px; border-radius: 4px;">Lihat Galeri</a>
-    </div>
+    <a href="/galeri.html" class="card-link" style="text-decoration: none;">
+        <div class="info-card" style="border: 1px solid #dee2e6; border-left: 5px solid #fd7e14; padding: 20px; border-radius: 8px; transition: transform 0.2s, box-shadow 0.2s; background-color: #ffffff; height: 100%;">
+            <h3 style="color: #fd7e14; margin-top: 0;"><i class="fas fa-camera fa-fw"></i> Galeri Sekolah</h3>
+            <p style="color: #495057;">Album foto dan video kegiatan sekolah terbaru dan terdokumentasi.</p>
+            <span style="color: #fd7e14; font-weight: bold;">Lihat Galeri &rarr;</span>
+        </div>
+    </a>
 
 </div>
 
 ---
 
-<h2 align="center" style="margin-top: 40px; margin-bottom: 30px;">💻 Portal Aplikasi & Layanan Profesional</h2>
+## 💻 Portal Aplikasi & Layanan Profesional
 
-<div class="repo-list">
-    <div style="border: 2px solid #007bff; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-user-plus" style="color: #007bff;"></i> PPDB Online</h3>
-        <p>Penerimaan Peserta Didik Baru [Tahun Ajaran].</p>
-        <a href="https://link-ppdb-anda.sch.id" style="text-decoration: none; color: #007bff; border: 1px solid #007bff; padding: 8px 12px; border-radius: 4px;">Akses Portal</a>
+<div class="card-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 30px;">
+
+    <div class="service-card" style="border: 1px solid #007bff; padding: 20px; border-radius: 8px; background-color: #e9f7ff; text-align: center;">
+        <h3 style="color: #007bff; margin-top: 0;"><i class="fas fa-user-plus fa-2x" style="margin-bottom: 10px;"></i><br> PPDB Online</h3>
+        <p style="color: #343a40;">Penerimaan Peserta Didik Baru [Tahun Ajaran] secara daring.</p>
+        <a href="https://link-ppdb-anda.sch.id" style="text-decoration: none; display: block; background-color: #007bff; color: white; padding: 10px 15px; border-radius: 4px; font-weight: bold; margin-top: 15px;">
+            Akses Portal PPDB
+        </a>
     </div>
 
-    <div style="border: 2px solid #28a745; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-graduation-cap" style="color: #28a745;"></i> SIAKAD</h3>
-        <p>Portal Nilai, Absensi, dan Data Akademik Siswa/Wali Murid.</p>
-        <a href="https://link-siakad-sekolah.sch.id" style="text-decoration: none; color: #28a745; border: 1px solid #28a745; padding: 8px 12px; border-radius: 4px;">Login SIAKAD</a>
+    <div class="service-card" style="border: 1px solid #28a745; padding: 20px; border-radius: 8px; background-color: #e6ffed; text-align: center;">
+        <h3 style="color: #28a745; margin-top: 0;"><i class="fas fa-graduation-cap fa-2x" style="margin-bottom: 10px;"></i><br> SIAKAD</h3>
+        <p style="color: #343a40;">Portal Nilai, Absensi, dan Data Akademik Siswa/Wali Murid.</p>
+        <a href="https://link-siakad-sekolah.sch.id" style="text-decoration: none; display: block; background-color: #28a745; color: white; padding: 10px 15px; border-radius: 4px; font-weight: bold; margin-top: 15px;">
+            Login SIAKAD
+        </a>
     </div>
 
-    <div style="border: 2px solid #ffc107; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-book-open" style="color: #ffc107;"></i> Perpustakaan Digital</h3>
-        <p>Akses koleksi e-book dan sumber daya digital sekolah.</p>
-        <a href="https://link-perpus-digital-anda.com" style="text-decoration: none; color: #ffc107; border: 1px solid #ffc107; padding: 8px 12px; border-radius: 4px;">Kunjungi</a>
+    <div class="service-card" style="border: 1px solid #ffc107; padding: 20px; border-radius: 8px; background-color: #fff9e6; text-align: center;">
+        <h3 style="color: #ffc107; margin-top: 0;"><i class="fas fa-book-open fa-2x" style="margin-bottom: 10px;"></i><br> Perpustakaan Digital</h3>
+        <p style="color: #343a40;">Akses koleksi e-book dan sumber daya digital sekolah.</p>
+        <a href="https://link-perpus-digital-anda.com" style="text-decoration: none; display: block; background-color: #ffc107; color: #343a40; padding: 10px 15px; border-radius: 4px; font-weight: bold; margin-top: 15px;">
+            Kunjungi Perpus
+        </a>
     </div>
 
-    <div style="border: 2px solid #dc3545; padding: 15px; margin-bottom: 15px; border-radius: 8px;">
-        <h3><i class="fas fa-user-friends" style="color: #dc3545;"></i> Portal Alumni</h3>
-        <p>Jaringan komunikasi dan informasi khusus lulusan.</p>
-        <a href="https://link-forum-alumni-anda.com" style="text-decoration: none; color: #dc3545; border: 1px solid #dc3545; padding: 8px 12px; border-radius: 4px;">Akses Forum</a>
+    <div class="service-card" style="border: 1px solid #dc3545; padding: 20px; border-radius: 8px; background-color: #ffe6e6; text-align: center;">
+        <h3 style="color: #dc3545; margin-top: 0;"><i class="fas fa-user-friends fa-2x" style="margin-bottom: 10px;"></i><br> Portal Alumni</h3>
+        <p style="color: #343a40;">Jaringan komunikasi dan informasi khusus lulusan/alumni.</p>
+        <a href="https://link-forum-alumni-anda.com" style="text-decoration: none; display: block; background-color: #dc3545; color: white; padding: 10px 15px; border-radius: 4px; font-weight: bold; margin-top: 15px;">
+            Akses Forum Alumni
+        </a>
     </div>
 </div>
 
-<br><br>
+---
 
-<div align="center" style="border-top: 1px solid #eee; padding-top: 20px; color: #888; font-size: 0.9em;">
-    ***
-    <p>Created by Suhartanto (c) 2025</p>
+<div align="center" style="padding: 20px; margin-top: 40px; background-color: #343a40; color: #ffffff; border-top: 5px solid #007bff;">
+    <p style="margin-bottom: 5px;">&copy; {{ site.time | date: "%Y" }} SMAN 2 Bengkalis. Hak Cipta Dilindungi.</p>
+    <p style="font-size: 0.8em; color: #adb5bd;">Dikelola oleh Tim IT SMAN 2 Bengkalis | Dibuat oleh Suhartanto</p>
 </div>
