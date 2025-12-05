@@ -17,10 +17,11 @@ permalink: /portfolio/
 
 <hr>
 
-## 🌐 Proyek 2: [Nama Proyek Anda yang lain]
-* **Teknologi:** [Contoh: HTML, CSS, JavaScript, Jekyll]
-* **Deskripsi:** Proyek ini menampilkan [Contoh: Situs pribadi/blog kustom].
-* **Link:** [Link ke Live Demo]
+## 🌐 Proyek 2: Koperasi Sekolah
+* **Teknologi:** Google Apps Script, Google Sheets, HTML/CSS
+* **Deskripsi:** Sistem Koperasi Sekolah yang menampilkan informasi tentang keuangan Anggota
+* **Link:** [Akses Demo Langsung di Sini](https://script.google.com/macros/s/AKfycbyz1n5-5G_K6N0RH82HfIF6G63AUwSnIC64zDfN8Qtn3zLlIVd0Rq38ndEiknJeifKKOA/exec))
+
 
 <hr>
 
